@@ -4,6 +4,8 @@
 
 Mail, calendar, notes and to-do lists for the Mudita Kompakt, designed for E Ink. Turn off the modules you don't need; their data stays on the phone.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J4V82A4UVG)
+
 ## What it can do
 
 **Mail**
