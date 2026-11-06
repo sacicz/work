@@ -16,6 +16,7 @@ Mail, calendar, notes and to-do lists for the Mudita Kompakt, designed for E Ink
 - Send from extra addresses set up with your provider
 - Outbox: mail written offline is sent when the connection is back
 - Pick recipients from your phone's contacts
+- Choose how many messages stay on the phone for offline reading, and add a signature
 
 **Calendar**
 - Day and month views
@@ -23,13 +24,15 @@ Mail, calendar, notes and to-do lists for the Mudita Kompakt, designed for E Ink
 - Add, edit and delete events, including repeating ones
 - Add view-only calendars by .ics link
 - A local calendar on the phone, with no sync
+- Choose the first day of the week, the start view and which calendars show
 
 **Notes and to-do**
 - Notes with a title and free text
 - To-do lists with tasks to tick off, including repeating lists
 - Search across notes and lists
+- Sort by last change or A to Z, and move finished lists to the end
 
-**Languages:** English, Croatian, Spanish
+**Languages:** Croatian, English, German, French, Spanish, Italian, Portuguese, Dutch, Polish, Czech
 
 ## Good to know
 - Most providers require an app-specific password instead of your normal one
